@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701067038 source:d:\c\structure\makeup store\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1701526708 source:d:\project c\makeup store\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
